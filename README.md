@@ -43,8 +43,8 @@ Confusion matrix:
 
 |  | Pred_Loss | Predicted_Win |
 | ------ | ------ |  ------ |
-| Actual_Win  | 2141 |  500 |
-| Actual_Loss |539 | 2187 |
+| Actual_Loss  | 2141 |  500 |
+| Actual_Win |539 | 2187 |
 
 
 Classification report:
