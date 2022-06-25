@@ -58,4 +58,4 @@ Classification report:
     macro avg      0.81      0.81      0.81      5367
     weighted avg   0.81      0.81      0.81      5367
 
-
+<a href="https://www.buymeacoffee.com/Gigrise" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
