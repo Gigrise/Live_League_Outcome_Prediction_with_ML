@@ -3,7 +3,7 @@
 
 The goal of the project is to evaluate current match as accurate as possible to predict the outcome of the game in real time.
 
-It might be usefull for the players that easily loose hope to win, since the odds might be not that low one would think.
+It might be usefull for the players that easily loose the hope to win, since the odds might be not that low one would think.
 
 Currently the model is trained for the match state at 15 minutes mark and matches between challenger level players.
 Hence the most accurate result will be achieved at 15:00 and in a high rank match.
